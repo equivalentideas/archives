@@ -1,4 +1,2 @@
-archives
-========
+# What do records do in peoples lives that nothing else does?
 
-A place to think about what archives should do, reaching for decentralised, federated archives. 
