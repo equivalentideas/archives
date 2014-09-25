@@ -10,6 +10,8 @@ Negotiating public/private domain issues around records is one of the particular
 
 *[To be written up](https://github.com/equivalentideas/archives/edit/master/README.md)*
 
+The idea for this scratch pad git repo came from the [‘Improving access to archives and other records’ – Melbourne edition](http://rkroundtable.org/2014/09/24/what-do-records-do-in-peoples-lives-that-nothing-else-does/).
+
 ### Links
 
 * [Report from Improving access to archives and other records](http://rkroundtable.org/2014/04/04/report-from-improving-access-to-archives-and-other-records/)
